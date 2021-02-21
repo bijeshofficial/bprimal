@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="bprimal",
-    version="0.0.1",
+    version="0.0.2",
     author="Bijesh Raj Kunwar",
     author_email="bijeshr.kunwar@gmail.com",
     description="A collection of random functions created to learn deploying a package",
